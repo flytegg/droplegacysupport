@@ -6,7 +6,7 @@
 <div class="flex flex-col items-center justify-evenly gap-24 min-h-[100vh]">
     <div class="text-center flex-col flex gap-2 pt-10 md:pt-20 px-4">
         <h1 class="text-white font-bold text-[40px] underline">Drop Legacy Support</h1>
-        <h2 class="text-[#3C414B] text-2xl text-center md:break-words">Embrace progress, shed complexity, and thrive in the ecosystem—<br class="hidden md:inline">join the movement and drop legacy version support to ignite innovation.</h2>
+        <h2 class="text-[#4a4f5b] text-2xl text-center md:break-words">Embrace progress, shed complexity, and thrive in the ecosystem—<br class="hidden md:inline">join the movement and drop legacy version support to ignite innovation.</h2>
     </div>
 
     <div class="place-items-center items-start grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-4">
@@ -38,7 +38,7 @@
         </div>
     </div>
 
-    <h2 class="text-[#3C414B] text-[30px] text-center font-semibold mt-[-70px]">Don't be part of the problem.</h2>
+    <h2 class="text-[#4a4f5b] text-[30px] text-center font-semibold mt-[-70px]">Don't be part of the problem.</h2>
     <p class="text-[#3C414B] text-[15px] text-center pb-12">Not affiliated with Mojang AB. Sponsored by <a href="https://learnspigot.com" target="_blank" class="underline decoration-dotted">LearnSpigot</a> ❤</p>
 </div>
 
