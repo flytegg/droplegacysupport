@@ -9,7 +9,7 @@
         <h2 class="text-[#4a4f5b] text-2xl text-center md:break-words">Embrace progress, shed complexity, and thrive in the ecosystem—<br class="hidden md:inline">join the movement and drop legacy version support to ignite innovation.</h2>
     </div>
 
-    <div class="place-items-center items-start grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-4">
+    <div class="place-items-center items-start grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-4">
         <div class="block max-w-sm p-6 rounded-lg shadow bg-[#29282b] h-[100%]">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">✨ New features</h5>
             <p class="font-normal text-gray-700 dark:text-gray-400">
