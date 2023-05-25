@@ -15,19 +15,19 @@
             <p class="font-normal text-gray-700 dark:text-gray-400">
                 By dropping support, you can use new features that Minecraft and the API offers. Notable additions include <b>Boss Bars</b>, <b>titles</b>, <b>Display Entities</b>, <b>hex colors</b> and much more.
                 <br><br>By supporting archaic versions, you increase the complexity of your plugin. Not only are you forced to code different outcomes among different versions, but you will have to use significantly more NMS, which requires individual support for every patch.
-                <br><br>1.8 is over 7 years old. Backwards compatability for <b>12 major versions</b> is extremely painful.
+                <br><br>1.8 is over 7 years old. Backwards compatibility for <b>12 major versions</b> is extremely painful.
             </p>
         </div>
         <div class="block max-w-sm p-6 rounded-lg shadow bg-[#29282b] h-[100%]">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">♻ The ecosystem</h5>
             <p class="font-normal text-gray-700 dark:text-gray-400">Many APIs and integrations have already dropped support for older versions. Notable examples include the <a class="underline decoration-dotted" href="https://github.com/minecraft-dev/MinecraftDev/issues/591#issuecomment-475997683" target="_blank">IntelliJ Minecraft plugin</a>, <a href="https://www.spigotmc.org/resources/coreprotect.8631/" target="_blank" class="underline decoration-dotted">CoreProtect</a> and <a href="https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/" target="_blank" class="underline decoration-dotted">mcMMO</a>.
-                <br><br>You can take advantage of the plugin development ecosystem with compatability guarantees and interoperability with facilitating plugins, frameworks and integrations.
+                <br><br>You can take advantage of the plugin development ecosystem with compatibility guarantees and interoperability with facilitating plugins, frameworks and integrations.
                 <br><br>Due to the reduced community activity and limited features of older versions, the developer support network is not nearly as wide as that of newer versions.
             </p>
         </div>
         <div class="block max-w-sm p-6 rounded-lg shadow bg-[#29282b] h-[100%]">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">🤐 The stigma</h5>
-            <p class="font-normal text-gray-700 dark:text-gray-400">The 1.8 community is the loud minority. Many instill fear into developers through unfairly trashing and falsely reviewing plugins who don't support these ancient versions.
+            <p class="font-normal text-gray-700 dark:text-gray-400">The 1.8 community is the loud minority. Many instil fear into developers through unfairly trashing and falsely reviewing plugins who don't support these ancient versions.
                 <br><br>Do not be discouraged. Many users will thank you and welcome the new features and time you can dedicate to the non-dinosaurs.
                 <br><br>The truth is that the 1.8 community is not as large as it used to be. As of 2023, <b>1.8.8 accounts for only 5.6% of total servers</b>.
             </p>
