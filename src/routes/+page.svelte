@@ -39,7 +39,7 @@
     </div>
 
     <h2 class="text-[#4a4f5b] text-[30px] text-center font-semibold mt-[-70px]">Don't be part of the problem.</h2>
-    <p class="text-[#3C414B] text-[15px] text-center pb-12">Not affiliated with Mojang AB. Sponsored by <a href="https://learnspigot.com" target="_blank" class="underline decoration-dotted">LearnSpigot</a> ❤</p>
+    <p class="text-[#3C414B] text-[15px] text-center pb-12 mx-4 md:mx-0">Not affiliated with Mojang AB. Sponsored by <a href="https://learnspigot.com" target="_blank" class="underline decoration-dotted">LearnSpigot</a> ❤</p>
 </div>
 
 <style>
