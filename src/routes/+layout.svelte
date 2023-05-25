@@ -8,7 +8,7 @@
     <meta property="og:url" content="https://droplegacy.support/" />
     <meta property="og:image" content="https://i.imgur.com/bba2Ksm.png" />
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:description" content="Embrace progress, shed complexity, and thrive in the ecosystem— join the movement and drop Minecraft legacy version support to ignite innovation." />
+    <meta property="og:description" content="Embrace progress, shed complexity, and thrive in the ecosystem— join the movement and drop Minecraft legacy version support." />
     <meta name="theme-color" content="#2b2d31">
 </svelte:head>
 
