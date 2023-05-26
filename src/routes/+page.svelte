@@ -4,7 +4,7 @@
 
 
 <div class="flex flex-col items-center justify-evenly gap-24 min-h-[100vh]">
-    <div class="text-center flex-col flex gap-2 pt-10 md:pt-20 px-4">
+    <div class="text-center flex-col flex gap-2 pt-10 md:pt-8 px-4">
         <h1 class="text-white font-bold text-[40px] underline">Drop Legacy Support</h1>
         <h2 class="text-[#4a4f5b] text-2xl text-center md:break-words">Embrace progress, shed complexity, and thrive in the ecosystem—<br class="hidden md:inline">join the movement and drop legacy version support to ignite innovation.</h2>
     </div>
